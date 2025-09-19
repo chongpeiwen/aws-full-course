@@ -50,7 +50,7 @@ curl -X POST http://localhost:3000/shorten \
 To retrieve a shortened URL:  
 
 ```sh
-curl -i http://localhost:3000/go/yak.whale.dog
+curl -i http://localhost:3000/go/zebra.octopus.kangaroo
 ```
 
 ### 5. Success!  
